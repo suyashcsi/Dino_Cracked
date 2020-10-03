@@ -1,0 +1,9 @@
+How to implement the game
+1.Open Chrome Browser(Offline)
+2.Type"Chrome://dino'
+3.Click Right Mouse Button
+4.Click on Inspect
+5.Open Console
+6.Type the Code(given in other page)
+7.Enjoy!
+ 
